@@ -1,5 +1,7 @@
 # NgrxAppSample
 
+Project based on tutorial: https://www.youtube.com/watch?v=62JNAasgclE
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
 
 ## Development server
